@@ -1,11 +1,12 @@
 {
     "slidergithub": [
         {
-        'title': 'Tebex Test',
-        'content': 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book',
-        'image_url': 'https://media.discordapp.net/attachments/1069746381767589979/1088971232319389736/peakpx_2.jpg',
-        'url': 'https://tebex.io'
+        'title': "Tebex Test",
+        'content': "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        'image_url': "https://media.discordapp.net/attachments/1069746381767589979/1088971232319389736/peakpx_2.jpg",
+        'url': "https://tebex.io"
         },
+        
         {
             "title": "Character 2",
             "description": "This is the description of character 2.",
