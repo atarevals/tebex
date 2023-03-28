@@ -1,1 +1,16 @@
-
+{
+    "slidergithub": [
+        {
+            "title": "Character 1",
+            "description": "This is the description of character 1.",
+            "image": "https://example.com/character1.jpg",
+            "url": "https://example.com/character1"
+        },
+        {
+            "title": "Character 2",
+            "description": "This is the description of character 2.",
+            "image": "https://example.com/character2.jpg",
+            "url": "https://example.com/character2"
+        }
+    ]
+}
