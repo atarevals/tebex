@@ -3,13 +3,13 @@
         {
             "title": "Character 1",
             "description": "This is the description of character 1.",
-            "image": "https://example.com/character1.jpg",
+            "image": "https://cdn.discordapp.com/attachments/1087922656067727481/1090260285182459995/poster.jpg",
             "url": "https://example.com/character1"
         },
         {
             "title": "Character 2",
             "description": "This is the description of character 2.",
-            "image": "https://example.com/character2.jpg",
+            "image": "https://cdn.discordapp.com/attachments/1087922656067727481/1090428196794675310/register_menu.jpg",
             "url": "https://example.com/character2"
         }
     ]
